@@ -1,9 +1,11 @@
 import React from 'react';
+import Navbar from './components/Navbar/navbar';
+
 
 function App() {
   return (
     <>
-      <h1>Aqui ficará a Primeira página</h1>
+      <Navbar/>
     </>
   );
 }
