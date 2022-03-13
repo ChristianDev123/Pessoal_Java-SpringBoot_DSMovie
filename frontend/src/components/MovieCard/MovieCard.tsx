@@ -16,7 +16,7 @@ export default function MovieCard({film}:Props) {
       />
       <div className="dsmovie-card-bottom-container">
         <h3>{film.title}</h3>
-        <MovieScore />
+        <MovieScore count={film.count} score={film.score} />
         <Link to={`/form/${film.id}`}>
           <div className="btn btn-primary dsmovie-btn">Avaliar</div>
         </Link>
