@@ -9,8 +9,6 @@ Projeto desenvolvido durante a participação de um bootcamp React realizado pel
 
 ![Imagem App](https://github.com/ChristianDev123/Pessoal_Java-SpringBoot_DSMovie/blob/main/DSMovie_page-0003.jpg)
 
-![Imagem App](https://github.com/ChristianDev123/Pessoal_Java-SpringBoot_DSMovie/blob/main/DSMovie_page-0004.jpg)
-
 ## Como Instalar Localmente:
 
 ### Front-End
